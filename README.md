@@ -51,4 +51,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mwaleed001&show_icons=true&locale=en&layout=compact" alt="Mwaleed001" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mwaleed001&show_icons=true&locale=en" alt="Mwaleed001" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mwaleed001" alt="mwaleed001" /></a> </p>a
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaleed001&" alt="mwaleed001" /></p>
+
