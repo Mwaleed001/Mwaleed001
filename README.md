@@ -52,5 +52,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mwaleed001&show_icons=true&locale=en" alt="Mwaleed001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Mwaleed001&" alt="Mwaleed001" /></p>
-
