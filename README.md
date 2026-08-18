@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Frontend Developer from Rawalpindi</h3>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=mwaleed001" alt="mwaleed001" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api?username=mwaleed001&show_icons=true&theme=radial';" />
+  <a href="https://github.com/mwaleed001">
+    <img src="https://img.shields.io/github/followers/mwaleed001?label=Followers&logo=github&style=for-the-badge&color=238636" alt="Followers" />
+    <img src="https://img.shields.io/github/stars/mwaleed001?label=Stars&logo=github&style=for-the-badge&color=e3b341" alt="Stars" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on **javascript essentials**
