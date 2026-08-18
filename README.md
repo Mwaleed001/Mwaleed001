@@ -51,7 +51,8 @@
        alt="Photoshop" width="40" height="40"/></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mwaleed001&show_icons=true&locale=en&layout=compact" alt="Mwaleed001" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mwaleed001&show_icons=true&locale=en" alt="Mwaleed001" /></p>
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwaleed001&theme=react-dark" alt="mwaleed001 Activity Graph" />
+</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaleed001&" alt="mwaleed001" /></p>
 
