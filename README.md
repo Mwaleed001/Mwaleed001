@@ -54,5 +54,3 @@
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwaleed001&theme=react-dark" alt="mwaleed001 Activity Graph" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaleed001&" alt="mwaleed001" /></p>
-
