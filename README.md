@@ -24,21 +24,6 @@
 
 <br clear="both" />
 
-
-<p align="right">
-  <img src="https://streak-stats.demolab.com?user=mwaleed001&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
-
-- 🔭 I’m currently working on **javascript essentials**
-
-- 🌱 I’m currently learning **CS50 course**
-
-- 💬 Ask me about **C/C++ JS/HTML/CSS Python/ML**
-
-- 📫 How to reach me **www.linkedin.com/in/waleed-abdullah-2182363b3**
-
-- ⚡ Fun fact **i am just excite in every situation.**
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
