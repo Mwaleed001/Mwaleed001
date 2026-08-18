@@ -58,5 +58,5 @@
 
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mwaleed001&theme=react-dark" alt="mwaleed001 Activity Graph" />
+  <img src="https://raw.githubusercontent.com/mwaleed001/mwaleed001/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" />
 </p>
