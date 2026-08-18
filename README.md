@@ -8,8 +8,8 @@
   </a>
 </p>
 
-<table>
-  <tr>
+<table border:"0"">
+  <tr border:"0">
     <td valign="top" width="50%">
 
 - 🔭 I’m currently working on **javascript essentials**
