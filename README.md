@@ -1,9 +1,9 @@
  <h1 align="center">Hi 👋, I'm Waleed Abdullah</h1>
 <h3 align="center">A passionate Frontend Developer from Rawalpindi</h3>
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mwaleed001&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mwaleed001" alt="Mwaleed001" />
+</a>
 
 - 🔭 I’m currently working on **javascript essentials**
 
