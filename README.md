@@ -1,10 +1,8 @@
  <h1 align="center">Hi 👋, I'm Waleed Abdullah</h1>
-<h3 align="center">A passionate frontend developer from rawalpindi</h3>
+<h3 align="center">A passionate Frontend Developer from Rawalpindi</h3>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Mwaleed001" alt="Mwaleed001" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Mwaleed001&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 - 🔭 I’m currently working on **javascript essentials**
@@ -40,15 +38,16 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 
-  
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
+       alt="Photoshop" width="40" height="40"/></a>
 
- 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mwaleed001&show_icons=true&locale=en&layout=compact" alt="Mwaleed001" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mwaleed001&show_icons=true&locale=en" alt="Mwaleed001" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mwaleed001&" alt="mwaleed001" /></p>
