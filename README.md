@@ -5,8 +5,10 @@
   <a href="https://github.com/mwaleed001">
     <img src="https://img.shields.io/github/followers/mwaleed001?label=Followers&logo=github&style=for-the-badge&color=238636" alt="Followers" />
     <img src="https://img.shields.io/github/stars/mwaleed001?label=Stars&logo=github&style=for-the-badge&color=e3b341" alt="Stars" /> 
+   <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwaleed001&theme=dark&hide_border=true&border_radius=5" alt="GitHub Streak" height="150" />
- </a>
+   </p>
+  </a>
 </p>
 
 - 🔭 I’m currently working on **javascript essentials**
