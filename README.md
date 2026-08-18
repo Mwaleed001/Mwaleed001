@@ -6,7 +6,29 @@
     <img src="https://img.shields.io/github/followers/mwaleed001?label=Followers&logo=github&style=for-the-badge&color=238636" alt="Followers" />
     <img src="https://img.shields.io/github/stars/mwaleed001?label=Stars&logo=github&style=for-the-badge&color=e3b341" alt="Stars" /> 
   </a>
-</p><p align="right">
+</p>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+- 🔭 I’m currently working on **javascript essentials**
+- 🌱 I’m currently learning **CS50 course**
+- 💬 Ask me about **C/C++ JS/HTML/CSS Python/ML**
+- 📫 How to reach me **www.linkedin.com/in/waleed-abdullah-2182363b3**
+- ⚡ Fun fact **i am just excite in every situation.**
+
+    </td>
+    <td valign="top" align="right" width="50%">
+      <a href="https://github.com/mwaleed001">
+        <img src="https://streak-stats.demolab.com?user=mwaleed001&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+<p align="right">
   <img src="https://streak-stats.demolab.com?user=mwaleed001&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
