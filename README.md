@@ -5,10 +5,10 @@
   <a href="https://github.com/mwaleed001">
     <img src="https://img.shields.io/github/followers/mwaleed001?label=Followers&logo=github&style=for-the-badge&color=238636" alt="Followers" />
     <img src="https://img.shields.io/github/stars/mwaleed001?label=Stars&logo=github&style=for-the-badge&color=e3b341" alt="Stars" /> 
-  <p align="left">
-  <img src="https://streak-stats.demolab.com?user=mwaleed001&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
-</p>
   </a>
+</p>
+ <p align="left">
+  <img src="https://streak-stats.demolab.com?user=mwaleed001&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 - 🔭 I’m currently working on **javascript essentials**
