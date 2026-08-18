@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C/C++ JS/HTML/CSS Python/ML**
 
-- 📫 How to reach me **waleedabdullahbrand@gmail.com**
+- 📫 How to reach me **https://linkedin.com/in/Waleed Abdullah**
 
 - ⚡ Fun fact **i am just excite in every situation.**
 
