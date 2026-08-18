@@ -8,24 +8,21 @@
   </a>
 </p>
 
-<table border:"0"">
-  <tr border:"0">
-    <td valign="top" width="50%">
+<p align="right">
+  <a href="https://github.com/mwaleed001">
+    <img align="right" src="https://streak-stats.demolab.com?user=mwaleed001&theme=dark&hide_border=true" width="420" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **javascript essentials**
-- 🌱 I’m currently learning **CS50 course**
-- 💬 Ask me about **C/C++ JS/HTML/CSS Python/ML**
-- 📫 How to reach me **www.linkedin.com/in/waleed-abdullah-2182363b3**
-- ⚡ Fun fact **i am just excite in every situation.**
+<div>
+  <p>🔭 I’m currently working on <b>javascript essentials</b></p>
+  <p>🌱 I’m currently learning <b>CS50 course</b></p>
+  <p>💬 Ask me about <b>C/C++ JS/HTML/CSS Python/ML</b></p>
+  <p>📫 How to reach me <b>www.linkedin.com/in/waleed-abdullah-2182363b3</b></p>
+  <p>⚡ Fun fact <b>i am just excite in every situation.</b></p>
+</div>
 
-    </td>
-    <td valign="top" align="right" width="50%">
-      <a href="https://github.com/mwaleed001">
-        <img src="https://streak-stats.demolab.com?user=mwaleed001&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<br clear="both" />
 
 
 <p align="right">
