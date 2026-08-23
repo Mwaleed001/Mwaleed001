@@ -9,9 +9,7 @@
 </p>
 
 <p align="right">
-  <a href="https://github.com/mwaleed001">
-    <img align="right" src="https://streak-stats.demolab.com?user=mwaleed001&theme=dark&hide_border=true" width="420" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=mwaleed001&theme=dark&hide_border=true" width="420" alt="GitHub Streak" />
 </p>
 
 <div>
