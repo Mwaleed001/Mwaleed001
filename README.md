@@ -8,16 +8,20 @@
   </a>
 </p>
 
-<p align="right">
-  <img src="https://streak-stats.demolab.com/?user=mwaleed001&theme=dark&hide_border=true" width="420" alt="GitHub Streak" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
-<div>
-  <p>🔭 I’m currently working on <b>javascript essentials</b></p>
-  <p>🌱 I’m currently learning <b>CS50 course</b></p>
-  <p>💬 Ask me about <b>C/C++ JS/HTML/CSS Python/ML</b></p>
-  <p>📫 How to reach me <b>www.linkedin.com/in/waleed-abdullah-2182363b3</b></p>
-  <p>⚡ Fun fact <b>i am just excite in every situation.</b></p>
+  <div>
+    <p>🔭 I’m currently working on <b>JavaScript Essentials</b></p>
+    <p>🌱 I’m currently learning <b>CS50</b></p>
+    <p>💬 Ask me about <b>C/C++, JavaScript, HTML, CSS, Python, ML</b></p>
+    <p>📫 How to reach me <b>www.linkedin.com/in/waleed-abdullah-2182363b3</b></p>
+    <p>⚡ Fun fact <b>I am just excited in every situation.</b></p>
+  </div>
+
+  <div>
+    <img src="https://streak-stats.demolab.com/?user=mwaleed001&theme=dark&hide_border=true" width="420" alt="GitHub Streak" />
+  </div>
+
 </div>
 
 <br clear="both" />
